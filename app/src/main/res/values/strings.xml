@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRCode</string>
+    <string name="hello">Hello!</string>
+    <string name="example_qr_heeeeey">Example QR: heeeeey</string>
+    <string name="example_name_train_ticket">Example name: train_ticket</string>
+    <string name="send">Send</string>
+    <string name="enter_the_name_to_display_on_the_list">Enter the name to display on the list</string>
+    <string name="enter_the_text_to_be_qr">Enter the text to be QR</string>
+    <string name="how_to_use">After you open this android app, you shuld get the notification on the watch that the app is connected. If not, close the app and open it again. To get the QR into the watch, just paste the QR below, give it the name and click send button! You can only put the QR if you are in the watch app main menu (list). After you clicked send, just close and open the app on the watch :)</string>
+</resources>
